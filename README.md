@@ -10,9 +10,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="20%">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="20%">
 </picture> 
-    <p>Hello my name is Iman👋</p>
+    <p><i>Hello my name is Iman👋</i></p>
     <p>Welcome to my repository!</p>
     <p>I am currently working on becoming a web developer</p>
-    <p>This is an example Readme</p>
+    <p><ins>This is an example Readme</ins></p>
 </body>
 </html>
